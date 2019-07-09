@@ -11,6 +11,12 @@ JRE / JDK version 8 or later required.
 ## Usage
 [Download and open jar](https://github.com/zappa2010/tiv/raw/master/tiv-1.0.jar).
 
+or
+
+```
+% ./gradlew run
+```
+
 The file selection dialog will open automatically.
 
 Drag the mouse on the image to move it. Or ←↓↑→ keys.
