@@ -9,7 +9,7 @@ It was created for web development, but please let us know if you find other use
 JRE / JDK version 8 or later required.
 
 ## Usage
-[Download and open jar](tiv-1.0.jar).
+[Download and open jar](https://github.com/zappa2010/tiv/raw/master/tiv-1.0.jar).
 
 The file selection dialog will open automatically.
 
